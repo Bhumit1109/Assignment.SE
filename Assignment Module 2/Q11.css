@@ -1,0 +1,21 @@
+/* Normal link styles */
+a {
+    color: blue; /* default link color */
+    text-decoration: none;
+  }
+  
+  /* Link when hovered */
+  a:hover {
+    color: red;
+  }
+  
+  /* Link when clicked */
+  a:active {
+    color: green;
+  }
+  
+  /* Visited link */
+  a:visited {
+    color: purple;
+  }
+  

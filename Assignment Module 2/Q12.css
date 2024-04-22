@@ -1,0 +1,14 @@
+.box {
+    width: 200px;
+    height: 200px;
+    background-color: lightblue;
+    text-align: center;
+    line-height: 200px;
+    cursor: pointer;
+  }
+  
+  /* Define dynamic pseudo-class */
+  .box:hover {
+    background-color: lightgreen;
+  }
+  
